@@ -1,4 +1,6 @@
 ## Hi there 👋
+<br/>
+I am writing this is to know and to learn git and github  
 
 <!--
 **sangmeshwari/sangmeshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
